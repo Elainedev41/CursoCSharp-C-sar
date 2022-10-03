@@ -1,0 +1,15 @@
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\bin\Debug\net6.0\Exercicio03F.exe
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\bin\Debug\net6.0\Exercicio03F.deps.json
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\bin\Debug\net6.0\Exercicio03F.runtimeconfig.json
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\bin\Debug\net6.0\Exercicio03F.dll
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\bin\Debug\net6.0\Exercicio03F.pdb
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\obj\Debug\net6.0\Exercicio03F.csproj.AssemblyReference.cache
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\obj\Debug\net6.0\Exercicio03F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\obj\Debug\net6.0\Exercicio03F.AssemblyInfoInputs.cache
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\obj\Debug\net6.0\Exercicio03F.AssemblyInfo.cs
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\obj\Debug\net6.0\Exercicio03F.csproj.CoreCompileInputs.cache
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\obj\Debug\net6.0\Exercicio03F.dll
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\obj\Debug\net6.0\refint\Exercicio03F.dll
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\obj\Debug\net6.0\Exercicio03F.pdb
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\obj\Debug\net6.0\Exercicio03F.genruntimeconfig.cache
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\Exercicio03F\obj\Debug\net6.0\ref\Exercicio03F.dll

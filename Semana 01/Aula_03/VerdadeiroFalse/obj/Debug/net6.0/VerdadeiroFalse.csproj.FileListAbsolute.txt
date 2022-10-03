@@ -1,0 +1,15 @@
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\bin\Debug\net6.0\VerdadeiroFalse.exe
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\bin\Debug\net6.0\VerdadeiroFalse.deps.json
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\bin\Debug\net6.0\VerdadeiroFalse.runtimeconfig.json
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\bin\Debug\net6.0\VerdadeiroFalse.dll
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\bin\Debug\net6.0\VerdadeiroFalse.pdb
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\obj\Debug\net6.0\VerdadeiroFalse.csproj.AssemblyReference.cache
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\obj\Debug\net6.0\VerdadeiroFalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\obj\Debug\net6.0\VerdadeiroFalse.AssemblyInfoInputs.cache
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\obj\Debug\net6.0\VerdadeiroFalse.AssemblyInfo.cs
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\obj\Debug\net6.0\VerdadeiroFalse.csproj.CoreCompileInputs.cache
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\obj\Debug\net6.0\VerdadeiroFalse.dll
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\obj\Debug\net6.0\refint\VerdadeiroFalse.dll
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\obj\Debug\net6.0\VerdadeiroFalse.pdb
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\obj\Debug\net6.0\VerdadeiroFalse.genruntimeconfig.cache
+C:\Users\Elaine\Treinamento César\Semana 01\Aula03\VerdadeiroFalse\obj\Debug\net6.0\ref\VerdadeiroFalse.dll
